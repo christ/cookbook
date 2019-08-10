@@ -22,7 +22,7 @@ It's all about the sauce.
 1. turn the heat down to medium and add onions and mushrooms to the saute pan
 1. when the onions and mushrooms are browned, add the butter and flour
 1. cook until the flour smell is gone, then add the broth and sherry to the mixture
-1. once the clumps start to dissipate, add heavy creme.
+1. once the clumps start to dissipate, add heavy cream.
 1. cook until the entire mixture is smooth.
 
 ## Serving
