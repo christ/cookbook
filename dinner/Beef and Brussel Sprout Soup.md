@@ -37,4 +37,4 @@ Beef and Brussel Sprout soup
 1. let simmer for 15 minutes
 1. add the brussel sprouts, ground beef, cubed potatoes
 1. let simmer another 10 minutes
-1. if it smells too much like beer for your liking add more of the beef broth you'd set aside earlier
+1. if it smells too much like beer for your liking add the water set aside earlier
