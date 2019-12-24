@@ -1,6 +1,6 @@
 # Mug cake
 
-_details coming soon_
+_Developed either in a prison or in a hostel, where people had access to a microwave for cooking._
 
 ## Ingredients
 * Wet
