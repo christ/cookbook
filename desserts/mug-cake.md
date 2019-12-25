@@ -12,6 +12,7 @@ _Developed either in a prison or in a hostel, where people had access to a micro
     * 2 tbsps cocoa powder
     * 1/4 cup flour
     * 1/4 tsp baking powder
+    * pinch of salt
 
 ## Instructions
 1. Mix wet ingredients together in one bowl.
