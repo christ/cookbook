@@ -1,4 +1,4 @@
-# Bicsuits
+# Biscuits
 Oven Temp: 425(F)
 
 Prep Time: 10 mins
