@@ -1,5 +1,7 @@
 
-# A note on US measurements
+# A Note on US Measurements
+
+## Commmon Measurments
 
 1 tablespoon = 15g / 15 mL*
 1 teaspoon = 5g / 5ml*
@@ -13,10 +15,18 @@
 1 ounce = 30g*
 1 pound = 450g*
 
+* approximately
+
+## Cups
+
 1 cup of flour = 140g*
 1 cup of white/brown sugar = 200g*
 1 cup of powdered sugar = 120g*
 1 cup cocoa powder = 85g*
+
+* approximately
+
+## Butter
 
 1 tablespoon butter = 1/2 ounce / 15g*
 1 stick butter = 8 tablespoons = 1/2 cup = 4 ounces / 110g*
@@ -24,7 +34,7 @@
 
 * approximately
 
-##Oven Temperature
+## Oven Temperature
 
 cool       200F = 90C
 slow       300F = 150C
