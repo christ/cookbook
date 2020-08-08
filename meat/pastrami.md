@@ -1,9 +1,17 @@
-# Title
+# Pastrami
+
+Source: [A Smoked Pastrami Recipe That's Close To Katz's](https://amazingribs.com/tested-recipes/beef-and-bison-recipes/home-made-pastrami-thats-close-katzs-recipe)
+
+Cooked maybe 4-5 times by **gstein**. The recipe below contains slight modifications
+and notes based on those experiences.
+
+Below, `[author]` refers to the recipe author on amazingribs.com, and
+`[Greg]` is obvious.
 
 ## Ingredients
 * Brisket: about 4 pounds.
-  USDA Prime is definitely preferred.
-  The point is preferable.
+  * USDA Prime is definitely preferred.
+  * The point is preferable.
 
 * Corning the beef:
   * 1 gallon distilled water
@@ -38,14 +46,14 @@
   * 1 tablespoon brown sugar
   * 1 tablespoon paprika
   * 2 teaspoons garlic powder
-  *2 teaspoons onion powder
+  * 2 teaspoons onion powder
 
 ## Instructions
 1. Mix the cure ingredients and the distilled water. Stir until they dissolve.
 1. Trim meat to a 1/8" fat layer on one side. if there is any filmy
-   membrane on the other side, remove it all. I like to buy a full packer
+   membrane on the other side, remove it all. [author] likes to buy a full packer
    brisket and separate the point from the flat, and cut the flat in half
-   when making corned beef or pastrami. That gives me 3 manageable hunks
+   when making corned beef or pastrami. That gives [author] 3 manageable hunks
    of 2 to 4 pounds each. If you leave the point attached to the flat
    beneath, it will be very thick and take longer to cure, and there's an
    ugly hunk of fat between them. (Fattier point section is preferred for
@@ -62,19 +70,20 @@
    little pinker.
 1. Desalinate. Put the corned beef in a pot slightly larger than the
    meat and cover it with cold water in the fridge for at least 8 hours
-   (see Notes). This removes excess salt. Trust me, you need to do this
+   (see Notes). This removes excess salt. Trust [author], you need to do this
    or you will be gulping water all night after your meal.
 1. Rub. Make the rub by blending together all the spices. Rinse the
    meat, and while it is damp, apply the rub liberally, about 4
    tablespoons per square foot of surface, and press it into the surface
    to help it adhere. If there is a thin part of meat, use less rub. Put
    in the fridge for a minimum of 2 days. Don't wrap it. The rub just
-   sticks to the plastic wrap. Normally I say you do not need to let
+   sticks to the plastic wrap. Normally [author] says you do not need to let
    meats marinate in a rub, but the wait seems to help this particular
    rub adhere.
 1. Smoke. Set up your grill in 2 zones for smoking or set up your
    smoker. If you can, use a charcoal smoker. It produces a deeper darker
-   crust than any other cooker. Preheat to 225°F. Pick your wood. I don't
+   crust than any other cooker. Preheat to 225°F. Pick your wood.
+   [author] doesn't
    think it makes a huge difference with all the other flavors banging
    around in there. My best batch was with cherry wood.
 1. Smoke it with indirect heat until it reaches the stall at about
@@ -94,13 +103,13 @@
    with a machine. It will just fall apart.
 
 ## Notes
-* Source: amazingribs.com/recipes/beef/close_to_katzs_home_made_pas... 
 * Our August 2020 cook: started with 3.5 lbs of USDA Prime *point*
   (the flat was turned into 1) smoked brisket, and 2) coarse ground
-  into Terlingua-style chili) ... we desalinated with a simple rinse
+  into Terlingua-style chili) ... we used commercial pickling spice
+  for the brine ... we desalinated with a simple rinse
   rather than soak ... the smoker took about 2h45m to reach 159F
-  before I pulled it (the higher temp doesn't seem to have affected
+  before [Greg] pulled it (the higher temp doesn't seem to have affected
   it, as that was still *before* the stall (ie. no moisture boiled out
-  and off the surface); I used my Primo smoker, with the interior
+  and off the surface); [Greg] used my Primo smoker, with the interior
   ceramic plates to ensure no direct heat). The steam oven took about
   2h15m. ... Net weight: about XX lbs (we ate some before weighing).
