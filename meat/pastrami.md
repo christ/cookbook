@@ -49,7 +49,8 @@ Below, `[author]` refers to the recipe author on amazingribs.com, and
   * 2 teaspoons onion powder
 
 ## Instructions
-1. Mix the cure ingredients and the distilled water. Stir until they dissolve.
+1. Mix the corning and pickling ingredients into the distilled water.
+   Stir until they dissolve.
 1. Trim meat to a 1/8" fat layer on one side. if there is any filmy
    membrane on the other side, remove it all. [author] likes to buy a full packer
    brisket and separate the point from the flat, and cut the flat in half
